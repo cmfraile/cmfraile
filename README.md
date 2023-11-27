@@ -1,7 +1,7 @@
 # 💫 Sobre Mi:
-Desarrollador web que sigue formándose en esta materia para ampliar sus conocimientos y ser algo mas que técnico de soporte.
-<br>Mi objetivo es ser desarrollador multi-stack. Actualmente me encuentro desarrollando mi primera aplicación web, además de estar realizando encargos para pequeñas empresas, continuando mi formación para seguir mejorando mi código y comprender las necesidades productivas de mis futuros compañeros de trabajo.
-<br>En mi tiempo libre disfruto de la ciencia ficción y de cualquier juego que implique el uso de la lógica y el ingenio. Me pierde la cultura asiática y la tecnología.
+Desarrollador y técnico que tras su experiencia de técnico helpdesk, decidió continuar su formación de programación tras el parón que supuso el covid para muchos.<br>
+El confinamiento fue idóneo para ampliar conocimientos y obtener experiencia en el campo del desarrollo software, en el cual sigo creciendo de diario. Actualmente estoy con desarrollos personales para móvil, prepararme el C1 de inglés y buscar empleo por cuenta ajena. Mi andadura como freelance me ha privado de compartir conocimientos y habilidades con otros miembros de un mismo proyecto, y es algo frustrante que deseo cambiar.<br>
+En mi tiempo libre disfruto de la ciencia ficción y de cualquier juego que implique el uso de la lógica y el ingenio. Me encanta la cultura asiática y la tecnología.<br>
 
 
 ## 🌐 Redes sociales:
