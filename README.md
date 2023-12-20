@@ -5,7 +5,6 @@ En mi tiempo libre disfruto de la ciencia ficción y de cualquier juego que impl
 
 
 ## 🌐 Redes sociales:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cmfraile)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cmfraile)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-brightgreen)](https://cmfg.dev)
 
