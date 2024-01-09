@@ -1,7 +1,8 @@
 # 💫 Sobre Mi:
-Desarrollador y técnico que tras su experiencia de técnico helpdesk, decidió continuar su formación de programación tras el parón que supuso el covid para muchos.<br>
-El confinamiento fue idóneo para ampliar conocimientos y obtener experiencia en el campo del desarrollo software, en el cual sigo creciendo de diario. Actualmente estoy con desarrollos personales para móvil, prepararme el C1 de inglés y buscar empleo por cuenta ajena. Mi andadura como freelance me ha privado de compartir conocimientos y habilidades con otros miembros de un mismo proyecto, y es algo frustrante que deseo cambiar.<br>
-En mi tiempo libre disfruto de la ciencia ficción y de cualquier juego que implique el uso de la lógica y el ingenio. Me encanta la cultura asiática y la tecnología.<br>
+Desarrollador web y técnico informático que tras su experiencia en helpdesk, decidió continuar su formación de programación tras el parón que supuso el covid para muchos.<br>
+El confinamiento fue una época ideal para ampliar conocimientos y obtener experiencia en el campo del desarrollo software, en el cual sigo creciendo de diario : Aprendiendo nuevas tecnologías, rodando en ellas mas allá de su estricto estudio, con pequeños encargos e ideas, buscando comprender y atender de manera constante las necesidades del sector de cara a trabajar en un equipo.<br>
+Mi objetivo es ser parte de un proyecto, donde pueda recibir conocimiento y experiencia de otros miembros para aplicarlo en nuestro software. Trabajar solo no demora mucho mas la resolución de problemas, pero hackatones y otros eventos del gremio me aportan unas dinámicas de trabajo que deseo de diario en mi carrera por lo que me hacen crecer.<br>
+En mi tiempo libre disfruto de la reuniones entre amigos , el ejercicio y de los juegos que impliquen el uso de la lógica y el ingenio. Me encanta la cultura asiática y la tecnología.<br>
 
 
 ## 🌐 Redes sociales:
