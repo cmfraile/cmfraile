@@ -1,7 +1,7 @@
 # 💫 Sobre Mi:
 Desarrollador web y técnico informático que tras su experiencia en helpdesk, decidió continuar su formación de programación tras el parón que supuso el Covid para muchos.<br><br>
 El confinamiento fue una época ideal para ampliar conocimientos y obtener experiencia en el campo del desarrollo software, en el cual sigo creciendo de diario: Aprendiendo nuevas tecnologías, rodando en ellas mas allá de su estricto estudio, todo orientado a estar lo mas preparado posible de cara a trabajar en un futuro equipo .<br><br>
-Mi objetivo es ser parte de un proyecto, donde el conocimiento y experiencia adquiridos pueda ser aplicado en nuestro software. Trabajar estrictamente solo no demora mucho mas la resolución de problemas, pero hackatones, eventos del sector y programar en equipo poseen un agradable entorno por el que deseo desempeñar esta profesión.<br><br>
+Mi objetivo es ser parte de un proyecto, donde el conocimiento y experiencia adquiridos pueda ser aplicado en nuestro software. Trabajar estrictamente solo no demora mucho mas la resolución de problemas, pero hackatones, eventos del sector y programar en equipo poseen un agradable entorno, motivo por el que deseo desempeñar esta profesión.<br><br>
 
 
 ## 🌐 Redes sociales:
